@@ -1,0 +1,29 @@
+#Day-2: Setting Up Terraform
+#Toay's Task:
+  #I learn some Key concepts and practical skills related using Terraform for Infrastructure as Code.
+   #1. I learned the basic building blocks of Terraform, involving resources, prodivers, and state files, 
+       which are essemtial for provisioning and managing infrastructure.
+   #2. I now have little experience on writing & structuring Few Terraform configuration files I used today.
+   #3. Understanding of how Terraform manages state files, the important of state files.
+   #4. I learned how to configure and manage infrastructure on major cloud platforms like AWS, Azure, and GCP, 
+       providing hands-on examples of how to work with different resources but I work a different video 
+       because I couldn't place my hands on the Udemy video.
+   #5. I learned how to use the Terraform CLI commands, such as terraform init, terraform plan, and terraform apply, 
+       to manage your infrastructure lifecycle.
+
+#Videos:
+   # I have not been able to watch any of the Udemy videos(don't have access to the Udemy videos) 
+     but I got video resource from Youtube to execute my Day-2 tasked.
+
+#Activities:
+   # I already had a functional AWS Management Console Account.
+   # Yes I downloaed and installed terraform into my local PC(Machine).
+   # I had AWS CLI downloaded and intalled into my local PC and 
+     installed AWS CLI Command Line Interface(CLI) to interact with AWS environment from this terminal.
+   # VS Code was already downloaded and AWS Toolkit plugin was installed for VS Code was already to manage my AWS resources directly.
+   # I have Lucidechart already as that's the Architectural diagram tool I love using.
+   # Yes I downloaed and installed terraform into my local PC(Machine).
+   # I had AWS CLI downloaded and intalled into my local PC and 
+     installed AWS CLI Command Line Interface(CLI) to interact with AWS environment from this terminal.
+   # VS Code was already downloaded and AWS Toolkit plugin was installed for VS Code was already to manage my AWS resources directly.
+   # I have Lucidechart already as that's the Architectural diagram tool I love using.
